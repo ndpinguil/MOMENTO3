@@ -1,6 +1,9 @@
-Indicando que cambios se realizaron y porque se realizaron.
+1) INDICAR QUE CAMBIOS SE REALIZARON Y PORQUE SE REALIZARON:
 
-Al final responder las siguientes preguntas:
+COMPONENTES:
+- 
+
+2) RESPONDER LAS SIGUIENTES PREGUNTAS:
 ¿Qué problemas específicos de rendimiento o mantenibilidad se identificaron en la aplicación original?
 
 ¿Cómo se aseguró que el refactoring no afectara negativamente la funcionalidad existente?
